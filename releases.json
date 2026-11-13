@@ -1,0 +1,37 @@
+{
+  "release": "2026-11-13-baseline",
+  "date": "2026-11-13",
+  "description": "首次发布基线；从当前最新文件开始保留发布历史。",
+  "files": [
+    {
+      "file": "prototype-v2.8.14.html",
+      "source": "内控系统迭代原型_V2.8.14.html",
+      "sha256": "c3405c1b8a4740ef51e91a7d4e51579d123874d27b23c69bdf378da56bb0b58a",
+      "size": 1389865
+    },
+    {
+      "file": "prd-v1.17.docx",
+      "source": "内控系统V2.8产品需求说明书_V1.17.docx",
+      "sha256": "82c6eb01e96790c2e248220f5136f15ba695a72107ff406bb6cbbfe277000883",
+      "size": 6530253
+    },
+    {
+      "file": "iteration-v1.16.docx",
+      "source": "内控系统V2.8研发迭代说明_V1.16_原型截图版.docx",
+      "sha256": "148b7c77eb91e1763c182652d6ca341dc4c352665fbee9b279c0adcbc85a2e84",
+      "size": 3548892
+    }
+  ],
+  "preview_checks": {
+    "prd": {
+      "text_nodes": 3081,
+      "images": 53,
+      "tables": 48
+    },
+    "iteration": {
+      "text_nodes": 391,
+      "images": 56,
+      "tables": 0
+    }
+  }
+}
